@@ -1,0 +1,15 @@
+# Rust build output
+/target
+
+# Bundled binaries (ffmpeg)
+/bin
+
+# Test media files
+/testfiles
+
+# macOS
+.DS_Store
+
+# Env / secrets
+.env
+.env.*
